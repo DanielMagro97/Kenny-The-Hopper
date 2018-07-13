@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlatformSpawner.cs">
+    <Files>
+      <File FileName="..\..\..\Documents\GameJam Project\Assets\playerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Moving.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformSpawner.cs" Line="5" Column="29" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AlienScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Damage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JetPack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelSelectorScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

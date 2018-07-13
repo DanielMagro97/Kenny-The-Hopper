@@ -1,0 +1,2 @@
+KennyTheHopper/ filter=lfs diff=lfs merge=lfs -text
+HTML[[:space:]]Build/ filter=lfs diff=lfs merge=lfs -text
